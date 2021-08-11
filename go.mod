@@ -1,4 +1,4 @@
-module github.com/spongeprojects/magicconch
+module github.com/wbsnail/snippets
 
 go 1.15
 
